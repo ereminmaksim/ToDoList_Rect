@@ -42,7 +42,7 @@ function TodoList() {
 
   return (
     <>
-      <h1>Маринкины заметки ...</h1>
+      <h1>Пирожковые заметки ...</h1>
       <TodoForm onSubmit={addTodo} />
       <Todo
         todos={todos}
